@@ -8,7 +8,7 @@
 
 # 📹 게임 시연 영상
 
-# https://www.youtube.com/watch?v=AZ3fguO\_R4s
+# https://youtu.be/AZ3fguO\_R4s
 
 ### (오류가 발생할 때는 새로운 창에서 링크를 직접 입력하고 들어가주시길 바랍니다.)
 
