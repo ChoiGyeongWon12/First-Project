@@ -58,7 +58,7 @@
 
 # 🎮 게임 빌드 파일:https://drive.google.com/file/d/1DgQ8EzI1Szi-EBAGXgvS1EmzldngwBuI/view?usp=drive\_link
 
-# 💾 게임 소스 파일: https://drive.google.com/file/d/1R1Rct3UYib8slmPmqui3-FG4FXc3KjR8/view?usp=sharing
+# 
 
 # 
 
