@@ -10,6 +10,8 @@
 
 # https://www.youtube.com/watch?v=AZ3fguO\_R4s
 
+## (깃허브에서 바로 들어가면 오류가 발생합니다. 새로운 창에서 링크 들어가시면 됩니다.)
+
 
 
 
